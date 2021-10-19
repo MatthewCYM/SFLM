@@ -57,7 +57,7 @@ Most arguments are the same as ```LM-BFF```, and the same manual prompts are use
 Please cite our paper if you use SFLM in your work:
 ```bibtex
 @inproceedings{chen2021revisit,        
-    title={{Mask-ShadowGAN}: Learning to Remove Shadows from Unpaired Data},         
+    title={Revisiting Self-Training for Few-Shot Learning of Language Model},         
     author={Chen, Yiming and Zhang, Yan and Zhang, Chen and Lee, Grandee and Cheng, Ran and Li, Haizhou},         
     booktitle={EMNLP},        
     year={2021},
